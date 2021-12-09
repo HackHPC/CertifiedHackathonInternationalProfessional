@@ -1,6 +1,9 @@
 # Certified Hackathon International Professional (CHiP)
 This project is a product of the [Hack the Hackathon: Shaping the Future of Hackathon Research and Practice Confernce](https://www.lorentzcenter.nl/hack-the-hackathon-shaping-the-future-of-hackathon-research-and-practice.html) held December 6th-10th. The purpose of this site is to act as an inital landing page for both current and future collaborators. 
 
+**Would you like to participate in this effort?** 
+Please fill in this Google Form to join our efforts! [Click Here](https://forms.gle/VgdF4dQc5shiDabG7)
+
 # What is CHiP
 A curriculum defining a set of training sessions addressing standards, logistics, tools and methods, coupled with a number of actual participation in events that would equate to what we would consider a capable hackathon organizer/consultant.
 
