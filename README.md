@@ -6,7 +6,7 @@ This project is a product of the [Hack the Hackathon: Shaping the Future of Hack
 | Name | Affiliation | Contact Methods
 |-----------------------|--------------|----------------------------|
 | Je'aime Powell | [TACC](tacc.utexas.edu) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[CHip])|
-| Abasi-amefon Affia |  | |
+| Abasi-Amefon Affia |  | |
 | Ines Knäpper | | |
 | Meris Longmeier | | |
 
