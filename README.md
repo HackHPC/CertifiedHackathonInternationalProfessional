@@ -3,6 +3,7 @@ This project is a product of the [Hack the Hackathon: Shaping the Future of Hack
 
 **Would you like to participate in this effort?** 
 Please fill in this Google Form to join our efforts! [Click Here](https://forms.gle/VgdF4dQc5shiDabG7)
+![Interest Form](images/CHIP-FormQR.png)
 
 # What is CHiP
 A curriculum defining a set of training sessions addressing standards, logistics, tools and methods, coupled with a number of actual participation in events that would equate to what we would consider a capable hackathon organizer/consultant.
