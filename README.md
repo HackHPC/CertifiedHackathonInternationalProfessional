@@ -13,6 +13,7 @@ A curriculum defining a set of training sessions addressing standards, logistics
 * [**Inital Planning Document**](https://docs.google.com/document/d/1Keum91RBSu_yw8N2vqsMOwRAZtZRB9e-VWbwCDG6HW0/edit?usp=sharing)
 * [**Google Drive Document Storage**](https://drive.google.com/drive/folders/1SmB-Lep65jDv8l978Cso9xK97VF5fPCz?usp=sharing)
 
-## Chip the CHiP Beaver
+## Chip the CHiP Beaver Backgrounds
 
-![chipthebeaver](images/150px-Chip_Team%20Logo.png)
+* [Chip makes a Hack the Hackathon Appearance](images/hackthehackathon_zoom-CHP.png)
+* [Chip in his natural habitat](images/CHP-background.png)
