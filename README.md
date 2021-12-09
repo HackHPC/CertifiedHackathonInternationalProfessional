@@ -4,6 +4,10 @@ This project is a product of the [Hack the Hackathon: Shaping the Future of Hack
 # What is CHiP
 A curriculum defining a set of training sessions addressing standards, logistics, tools and methods, coupled with a number of actual participation in events that would equate to what we would consider a capable hackathon organizer/consultant.
 
+# Planning Documents
+* [**Inital Planning Document**](https://docs.google.com/document/d/1Keum91RBSu_yw8N2vqsMOwRAZtZRB9e-VWbwCDG6HW0/edit?usp=sharing)
+* [**Google Drive Document Storage**](https://drive.google.com/drive/folders/1W4SJHux-xnmP2ixyWYaMe0LQjA1KeM9c)
+
 ## Chip the CHiP Beaver
 
 ![chipthebeaver](images/150px-Chip_Team%20Logo.png)
