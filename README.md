@@ -3,8 +3,8 @@ This project is a product of the [Hack the Hackathon: Shaping the Future of Hack
 
 ## Contacts
 
-|----|-----|-------|
-| Name | Affiliation | Contact Methods |
+| Name | Affiliation | Contact Information | Contact Methods
+|-----------------------|--------------|----------------------------|----------------------------|
 | Je'aime Powell | [TACC](tacc.utexas.edu) | [Email](mailto:jpowell@tacc.utexas.edu?subject=[CHiP Question])
 
 **Would you like to participate in this effort?** 
