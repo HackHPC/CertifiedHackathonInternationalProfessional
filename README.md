@@ -1,6 +1,12 @@
 # Certified Hackathon International Professional (CHiP)
 This project is a product of the [Hack the Hackathon: Shaping the Future of Hackathon Research and Practice Confernce](https://www.lorentzcenter.nl/hack-the-hackathon-shaping-the-future-of-hackathon-research-and-practice.html) held December 6th-10th. The purpose of this site is to act as an inital landing page for both current and future collaborators. 
 
+## Contacts
+
+|----|-----|-------|
+| Name | Affiliation | Contact Methods |
+| Je'aime Powell | [TACC](tacc.utexas.edu) | [Email](mailto:jpowell@tacc.utexas.edu?subject=[CHiP Question])
+
 **Would you like to participate in this effort?** 
 Please fill in this Google Form to join our efforts! [Click Here](https://forms.gle/VgdF4dQc5shiDabG7)
 
@@ -15,5 +21,5 @@ A curriculum defining a set of training sessions addressing standards, logistics
 
 ## Chip the CHiP Beaver Backgrounds
 
-* [Chip makes a Hack the Hackathon Appearance](images/hackthehackathon_zoom-CHP.png)
+* [Chip makes a "Hack the Hackathon" Appearance](images/hackthehackathon_zoom-CHP.png)
 * [Chip in his natural habitat](images/CHP-background.png)
